@@ -1,6 +1,6 @@
 var querystring = require('querystring');
-return;
-var got = require('got');
+
+var got = require('got');return;
 var token = require('@vitalets/google-translate-token');
 
 var languages = require('./languages');
