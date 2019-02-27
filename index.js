@@ -1,8 +1,8 @@
 var querystring = require('querystring');
 
 var got = require('got');
-var token = require('@vitalets/google-translate-token');
-/*
+/*var token = require('@vitalets/google-translate-token');
+
 var languages = require('./languages');
 
 function translate(text, opts) {
